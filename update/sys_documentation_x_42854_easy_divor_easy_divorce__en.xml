@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="number" label="Number" language="en" table="x_42854_easy_divor_easy_divorce_table">
+    <sys_documentation element="" label="Easy Divorce" language="en" table="x_42854_easy_divor_easy_divorce">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Number</label>
+            <label>Easy Divorce</label>
             <language>en</language>
-            <name>x_42854_easy_divor_easy_divorce_table</name>
-            <plural>Numbers</plural>
+            <name>x_42854_easy_divor_easy_divorce</name>
+            <plural>Easy Divorces</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2016-05-25 14:58:37</sys_created_on>
+            <sys_created_on>2016-05-25 15:51:35</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>a443a9e2db231200a2b2d360cf961987</sys_id>
+            <sys_id>606fede6db231200a2b2d360cf961960</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number</sys_name>
+            <sys_name>Easy Divorce</sys_name>
             <sys_package display_value="Easy Divorce" source="x_42854_easy_divor">5333a122db231200a2b2d360cf9619ef</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Easy Divorce">5333a122db231200a2b2d360cf9619ef</sys_scope>
-            <sys_update_name>sys_documentation_x_42854_easy_divor_easy_divorce_table_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_42854_easy_divor_easy_divorce__en</sys_update_name>
             <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2016-05-25 14:58:37</sys_updated_on>
+            <sys_updated_on>2016-05-25 15:51:35</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

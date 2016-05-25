@@ -4,28 +4,28 @@
         <active>true</active>
         <application display_value="Easy Divorce">6043a9e2db231200a2b2d360cf96198a</application>
         <filter/>
-        <name>Easy Divorce Table</name>
-        <order/>
+        <name>My Divorce Case</name>
+        <order>100</order>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
         <roles>x_42854_easy_divor.user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
-        <sys_created_on>2016-05-25 14:58:38</sys_created_on>
+        <sys_created_on>2016-05-25 15:58:41</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e443a9e2db231200a2b2d360cf96198a</sys_id>
+        <sys_id>2ee0392adb231200a2b2d360cf961917</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Easy Divorce Table</sys_name>
+        <sys_name>My Divorce Case</sys_name>
         <sys_package display_value="Easy Divorce" source="x_42854_easy_divor">5333a122db231200a2b2d360cf9619ef</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Easy Divorce">5333a122db231200a2b2d360cf9619ef</sys_scope>
-        <sys_update_name>sys_ui_module_e443a9e2db231200a2b2d360cf96198a</sys_update_name>
+        <sys_update_name>sys_ui_module_2ee0392adb231200a2b2d360cf961917</sys_update_name>
         <sys_updated_by>btippens</sys_updated_by>
-        <sys_updated_on>2016-05-25 14:58:38</sys_updated_on>
-        <table>x_42854_easy_divor_easy_divorce_table</table>
+        <sys_updated_on>2016-05-25 15:58:41</sys_updated_on>
+        <table>x_42854_easy_divor_easy_divorce</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
